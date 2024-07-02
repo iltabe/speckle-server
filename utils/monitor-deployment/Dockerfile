@@ -1,4 +1,4 @@
-FROM debian:12-slim@sha256:67f3931ad8cb1967beec602d8c0506af1e37e8d73c2a0b38b181ec5d8560d395 AS build-stage
+FROM debian:12-slim@sha256:d0ee556a990d3a6973c1ac08dcde8a972bd2cd1cadf5e91566aaed6684db35dd AS build-stage
 
 WORKDIR /build
 
